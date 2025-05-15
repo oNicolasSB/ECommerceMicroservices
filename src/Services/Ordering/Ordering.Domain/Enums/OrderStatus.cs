@@ -1,4 +1,4 @@
-namespace Ordering.Domain.Models.Enums;
+namespace Ordering.Domain.Enums;
 
 public enum OrderStatus
 {
