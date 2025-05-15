@@ -1,5 +1,3 @@
-using Ordering.Domain.Events;
-
 namespace Ordering.Domain.Models;
 
 public class Order : Aggregate<OrderId>
